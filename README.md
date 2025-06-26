@@ -5,6 +5,3 @@ Adding prints is an extremely necessary while coding complex things being a effe
 What is PCA and How to use  
 How to extract image features like (grayscale, color, lbp, sobel, prewitt, hog)  
 What is Data augmentation and how to use Image Augmentation with Albumentations  
-
-git lfs install
-git clone git@hf.co:
