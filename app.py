@@ -10,7 +10,7 @@ scaler = joblib.load('model_files/scaler.pkl')
 model = joblib.load('model_files/model.pkl')
 
 st.title("Pizza or not pizza?")
-st.text("Without deep learning. (Spoiler: this model might cry when it sees a lasagna.)")   
+st.text("Without deep learning. (Spoiler: this model might cry when it sees a lasagna. 😅)")   
 
 uploaded_file = st.file_uploader('Upload a food image.', type=["png", "jpg", "jpeg", "webp"])
 
