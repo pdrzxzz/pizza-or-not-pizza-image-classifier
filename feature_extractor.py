@@ -42,7 +42,7 @@ def load_and_resize_image(uploaded_file, as_gray=True):
 
     # Resize image to fixed size with anti-aliasing
     image = resize(image, IMAGE_SIZE, anti_aliasing=True)
-
+    
     return image
 
 
