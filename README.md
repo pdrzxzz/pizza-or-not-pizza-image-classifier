@@ -21,7 +21,7 @@ This project provided comprehensive hands-on experience with traditional compute
 - **Imageio**: Reads and preprocesses uploaded images.  
 - **Albumentations**: Augments training data with rotations and flips.
 
-### Key Machine Learning Components
+### 🗝️ Key Machine Learning Components
 1. **Feature Extraction Techniques**:
    - Grayscale pixel values
    - Color histograms (RGB)
