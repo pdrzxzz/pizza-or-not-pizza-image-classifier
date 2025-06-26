@@ -1,6 +1,5 @@
 import streamlit as st
 import joblib
-from io import BytesIO
 
 from features import extract_features_from_image
 
